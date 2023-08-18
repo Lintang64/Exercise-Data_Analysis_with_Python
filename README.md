@@ -32,3 +32,28 @@ Based on these problems, several business questions can be defined as follows:
 4. When was the last time a customer made a transaction?
 5. How often did a customer make a purchase in the last few months?
 6. How much money have customers spent in recent months?
+
+# Exercise-Data_Visualization
+After understanding the theory of data visualization and explanatory analysis, now is the time for us to apply them in a simple data analysis project. In this material, we will continue the Dicoding Collection data analysis project.
+
+Objective : First, we will continue our Dicoding Collection data analysis project by carrying out the process of creating data visualization and explanatory analysis. This process has the following objectives:
+1. answer all analytical or business questions that have previously been made; And
+2. create data visualization to facilitate the delivery of data analysis results.
+
+Training Flow : The following are the stages in this exercise.
+1. Preparation.
+2. Create data visualizations that answer business questions.
+
+Before starting to do this exercise, there are several things that must be prepared first. 
+1. Prepare Google Colab or Jupyter Notebook which was previously used in the Exploratory Data Analysis training material.
+2. Make sure you run all the code in the notebook again.
+
+After the preparation stage is complete, we will enter the stage of making data visualization and conducting explanatory analysis. As previously discussed, at this stage we will focus on answering various business questions that we have previously created.
+
+In the material for Exploratory Data Analysis, we have defined several business questions as follows.
+1. How has the company's sales and revenue been performing in the last few months?
+2. What products sell the most and the least?
+3. What are the customer demographics that we have?
+4. When was the last time a customer made a transaction?
+5. How often did a customer make a purchase in the last few months?
+6. How much money have customers spent in recent months?
